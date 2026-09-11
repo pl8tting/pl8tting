@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Teni
 
-<!--
-**pl8tting/pl8tting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught high school student learning Python and C#.
 
-Here are some ideas to get you started:
+I like building things I'm interested in, especially sports simulations and small tools that are useful in everyday life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently,
+
+- 🏀 **NBA Simulator** -A C# basketball league simulator with players, teams, seasons, and standings.
+-  **TaskTracker** - A Python/Tkinter desktop app for organizing and saving tasks.
+-  **Expense Tracker** - A Python CLI for managing expenses and calculating totals by category.
+
+## What I'm Learning 
+
+- Python
+- C#
+- Object-oriented programming
+- Data structures and algorithms
+- Building larger projects
